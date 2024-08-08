@@ -28,7 +28,7 @@ Create VM: <br/>
 <br />
 <br />
 <br/>
-Allow All in Firewall:  <br/>
+Allow All in Firewall:  <br/><br/>
 <img src="https://i.imghippo.com/files/rZ5w01723132962.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
