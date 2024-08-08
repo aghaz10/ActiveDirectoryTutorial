@@ -1,7 +1,7 @@
 <h1>SIEM Build with Azure VM & Sentinel (LIVE ATTACK Monitoring)-Home Lab</h1>
 
 <h2>Description</h2>
-In this project, I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observe live attacks (RDP Brute Force) from all around the world. I use a custom PowerShell script to look up the attackers' Geolocation information and plot it on the Azure Sentinel Map!
+In this project, I set up Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I observe live attacks (RDP Brute Force) from all around the world. I use a custom PowerShell script to look up the attackers' Geolocation information and plot it on the Azure Sentinel Map!
 <br />
 <br />
 <img src="https://i.imghippo.com/files/nt6Nx1723132563.png" height="80%" width="80%"/>
